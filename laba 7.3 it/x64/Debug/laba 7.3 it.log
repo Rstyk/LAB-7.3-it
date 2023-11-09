@@ -1,0 +1,5 @@
+﻿  laba 7.3 it.cpp
+C:\Users\ACER\source\repos\laba 7.3 it\laba 7.3 it\laba 7.3 it.cpp(42,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\source\repos\laba 7.3 it\laba 7.3 it\laba 7.3 it.cpp(78,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\source\repos\laba 7.3 it\laba 7.3 it\laba 7.3 it.cpp(96,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  laba 7.3 it.vcxproj -> C:\Users\ACER\source\repos\laba 7.3 it\x64\Debug\laba 7.3 it.exe
